@@ -16,7 +16,7 @@ Trabajar con grupos mutlidisciplnarios para tener perspectivas diferentes
 
 Cantidad sobre calidad, ayuda a tener un panorama de ideas que se puedan llevar a cabo en un cierto plazo de tiempo.
 
-### Para que se hace?
+### Cómo se hace?
 
 + Haga tangible la idea
 + Ponga a grupo en la misma página
