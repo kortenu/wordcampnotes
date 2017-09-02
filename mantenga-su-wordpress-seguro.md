@@ -40,3 +40,9 @@ Cuidars de las inyecciones, que añaden contenido no deseado, como iframes, redi
 Manejar el riesgo de tus sitios. Es imposible tener una protección completa debido a lo cambiante que es el ambiente.
 
 Utiliza las recomendaciones que puedas.
+
+## Preguntas
+### Recomendaciones cuando el sitio ha sido vulnerado
+1. Determinar el tipo de infección
+2. Determinar si es del server, o del site.
+3. Buscar por infecciones en la base de datos.
